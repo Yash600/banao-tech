@@ -13,7 +13,7 @@ npm install
 npm run dev
 ```
 
-Open <http://localhost:3000> and press **Try the synthetic sample**.
+Open https://banao-tech-eight.vercel.app and press **Try the synthetic sample**.
 
 To use the real export, press **Choose the CSV** and pick `tickets.csv`. The file is read in your browser and never uploaded.
 
